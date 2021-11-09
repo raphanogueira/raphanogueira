@@ -26,11 +26,3 @@
   ![Snake animation](https://github.com/raphanogueira/raphanogueira/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-  
-<p align="center"> 
-
- ## Total de visitas no meu perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/raphanogueira/count.svg" />
- </p>
-</p>
