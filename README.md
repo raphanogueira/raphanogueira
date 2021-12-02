@@ -6,7 +6,9 @@
   
 <div style="display: inline_block"><br>
   <kbd align="center">
-    <kbd class="panel-heading">Conhecimentos sólidos</kbd>
+    <kbd class="panel-heading">Conhecimentos sólidos em: </kbd>
+      <br>
+      <br>
       <img title="Azure" align="center" alt="Rapha-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
       <img title="C#" align="center" alt="Rapha-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
       <img title="Git" align="center" alt="Rapha-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
@@ -16,7 +18,9 @@
       <img title="TypeScript" align="center" alt="Rapha-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   </kbd>
   <kbd align="center">
-    <kbd class="panel-heading">Aprimorando/Estudando</kbd>
+    <kbd class="panel-heading">Aprimorando/Estudando: </kbd>
+      <br>
+      <br>
       <img title="Docker" align="center" alt="Rapha-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
       <img title="Kubernetes" align="center" alt="Rapha-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
   </kbd>
