@@ -16,7 +16,6 @@
       <img title="Redis" align="center" alt="Rapha-Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
       <img title="JavaScript" align="center" alt="Rapha-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
       <img title="TypeScript" align="center" alt="Rapha-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img title="SQL Server" align="center" alt="Rapha-SqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   </kbd>
   <kbd align="center">
     <kbd class="panel-heading">Aprimorando/Estudando: </kbd>
