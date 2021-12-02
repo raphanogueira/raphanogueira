@@ -1,12 +1,12 @@
 ## Olá! Eu sou o Raphael Nogueira
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphanogueira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=raphanogueira&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphanogueira&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
 <div style="display: inline_block"><br>
-  <div class="panel panel-default">
-    <div class="panel-heading">Conhecimentos sólidos</div>
-    <div class="panel-body">
+  <kbd align="center">
+    <kbd class="panel-heading">Conhecimentos sólidos</kbd>
       <img title="Azure" align="center" alt="Rapha-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
       <img title="C#" align="center" alt="Rapha-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
       <img title="Git" align="center" alt="Rapha-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
@@ -14,15 +14,12 @@
       <img title="Redis" align="center" alt="Rapha-Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
       <img title="JavaScript" align="center" alt="Rapha-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
       <img title="TypeScript" align="center" alt="Rapha-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    </div>
-  </div>
-  <div class="panel panel-default">
-    <div class="panel-heading">Aprimorando/Estudando</div>
-    <div class="panel-body">
+  </kbd>
+  <kbd align="center">
+    <kbd class="panel-heading">Aprimorando/Estudando</kbd>
       <img title="Docker" align="center" alt="Rapha-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
       <img title="Kubernetes" align="center" alt="Rapha-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-    </div>
-  </div>
+  </kbd>
 </div>
 
   ##
