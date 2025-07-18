@@ -1,36 +1,20 @@
-name: Atualizar Atividades Recentes
+name: Gerador de Atividades Recentes
 
 on:
   schedule:
-    # Roda a cada hora no minuto 2
-    - cron: '2 * * * *'
+    # Roda a cada 6 horas
+    - cron: '0 */6 * * *'
   workflow_dispatch:
-    # Permite rodar manualmente pela aba Actions
 
 jobs:
-  update-readme-with-activity:
-    name: Atualiza o README com as atividades recentes
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
+    name: Atualiza a lista de atividades no README
     steps:
       - uses: actions/checkout@v4
-
-      - name: Busca as atividades recentes do GitHub
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          # URL do seu feed de atividades
-          feed_list: "https://github.com/raphanogueira.atom"
-          
-          # Máximo de itens na lista
-          max_post_count: 5
-          
-          # Mensagem do commit
-          commit_message: "chore: atualiza histórico de atividades recentes"
-          
-          # Caminho para o README
-          readme_path: "./README.md"
-          
-          # ADICIONADO: Nome do marcador para encontrar no README
-          comment_tag_name: "activity"
+      - uses: actions/activity-generator@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Opcional: define o tipo de atividade a ser incluída. 
+          # Deixe comentado para incluir todas as atividades abaixo.
+          # ACTIVITY_TYPES: "PushEvent,CreateEvent"
