@@ -1,7 +1,8 @@
-# Olá, eu sou o Raphael Nogueira! 👋
-## Desenvolvedor de Software | Especialista .NET
+# Hello, I'm Raphael Nogueira! 👋
+## Software Developer | Principal Software Engineering
+A Principal Software Engineer in Code Quality and Performance with over 8 years of experience. I have worked in sectors such as government, solar energy, aviation, and most recently, healthcare. Each experience has deepened my passion for technology, allowing me to gain new knowledge and support other developers.
 
-Sou um desenvolvedor focado em construir soluções robustas e escaláveis, com foco em tecnologias Microsoft e no ecossistema de Cloud. Estou sempre em busca de novos desafios e aprendizados.
+In a recent success case, I contributed to the documentation, quality improvement, and performance of the code at Hapvida NDI, where I implemented SonarQube, defining rules, quality profiles, and code history. I also led the implementation of Backstage, an internal platform that catalogs applications, centralizes documentation, and automates the generation and deployment of templates on Kubernetes, including the application of NetworkPolicies, as well as the creation of pipelines and releases. Currently, I contribute to simplifying development, boosting productivity and quality through best practices and strategic tools at Hapvida NDI, the largest healthcare operator in Brazil.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/raphanogueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -10,7 +11,7 @@ Sou um desenvolvedor focado em construir soluções robustas e escaláveis, com 
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Technologies & Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/>
@@ -26,7 +27,7 @@ Sou um desenvolvedor focado em construir soluções robustas e escaláveis, com 
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/raphanogueira">
@@ -37,7 +38,7 @@ Sou um desenvolvedor focado em construir soluções robustas e escaláveis, com 
 
 ---
 
-## ⚡ Atividades Recentes no GitHub
+## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/raphanogueira/internal-analytics/pull/1) in [raphanogueira/internal-analytics](https://github.com/raphanogueira/internal-analytics)
