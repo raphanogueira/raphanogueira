@@ -1,4 +1,4 @@
-name: Gerador de Atividades Recentes
+name: Atualiza Feed de Atividades
 
 on:
   schedule:
@@ -9,12 +9,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Atualiza a lista de atividades no README
+    name: Atualiza o feed de atividades no README
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/activity-generator@v1
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # Opcional: define o tipo de atividade a ser incluída. 
-          # Deixe comentado para incluir todas as atividades abaixo.
-          # ACTIVITY_TYPES: "PushEvent,CreateEvent"
