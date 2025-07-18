@@ -21,8 +21,6 @@
 ### 📜 Histórico de atividades recentes
 
 ![Snake animation](https://github.com/raphanogueira/raphanogueira/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
 ### 📊 Minhas Estatísticas do GitHub
 
