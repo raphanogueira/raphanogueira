@@ -13,11 +13,6 @@
       <img title="Redis" align="center" alt="Rapha-Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" style="box-shadow: 0 0 1em white">
       <img title="JavaScript" align="center" alt="Rapha-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="box-shadow: 0 0 1em white">
       <img title="TypeScript" align="center" alt="Rapha-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="box-shadow: 0 0 1em white">
-  </kbd>
-  <kbd align="center">
-    <kbd class="panel-heading">Aprimorando/Estudando: </kbd>
-      <br>
-      <br>
       <img title="Docker" align="center" alt="Rapha-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" style="box-shadow: 0 0 1em white">
       <img title="Kubernetes" align="center" alt="Rapha-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" style="box-shadow: 0 0 1em white">
   </kbd>
