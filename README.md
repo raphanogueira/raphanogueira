@@ -38,3 +38,6 @@ Sou um desenvolvedor focado em construir soluções robustas e escaláveis, com 
 ---
 
 ## ⚡ Atividades Recentes no GitHub
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
