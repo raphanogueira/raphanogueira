@@ -21,10 +21,3 @@
 ### 📜 Histórico de atividades recentes
 
 ![Snake animation](https://github.com/raphanogueira/raphanogueira/blob/output/github-contribution-grid-snake.svg)
-
-### 📊 Minhas Estatísticas do GitHub
-
-<a href="https://github.com/raphanogueira">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raphanogueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphanogueira&layout=compact&langs_count=8&theme=dracula"/>
-</a>
