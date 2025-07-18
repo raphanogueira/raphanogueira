@@ -40,4 +40,6 @@ Sou um desenvolvedor focado em construir soluções robustas e escaláveis, com 
 ## ⚡ Atividades Recentes no GitHub
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/raphanogueira/internal-analytics/pull/1) in [raphanogueira/internal-analytics](https://github.com/raphanogueira/internal-analytics)
+2. 💪 Opened PR [#1](https://github.com/raphanogueira/internal-analytics/pull/1) in [raphanogueira/internal-analytics](https://github.com/raphanogueira/internal-analytics)
 <!--END_SECTION:activity-->
