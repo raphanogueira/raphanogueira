@@ -28,4 +28,4 @@ jobs:
           # Define o email do autor do commit
           committer_email: "raphael_dc1nogueira@hotmail.com.br"
           # Aponta para o seu README.md
-          readme_path: "../README.md"
+          readme_path: "./README.md"
