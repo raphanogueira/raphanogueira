@@ -41,6 +41,6 @@ In a recent success case, I contributed to the documentation, quality improvemen
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/raphanogueira/internal-analytics/pull/13) in [raphanogueira/internal-analytics](https://github.com/raphanogueira/internal-analytics)
-2. 💪 Opened PR [#13](https://github.com/raphanogueira/internal-analytics/pull/13) in [raphanogueira/internal-analytics](https://github.com/raphanogueira/internal-analytics)
+1. ❌ Closed PR [#20](https://github.com/raphanogueira/backstage-plugins/pull/20) in [raphanogueira/backstage-plugins](https://github.com/raphanogueira/backstage-plugins)
+2. 💪 Opened PR [#20](https://github.com/raphanogueira/backstage-plugins/pull/20) in [raphanogueira/backstage-plugins](https://github.com/raphanogueira/backstage-plugins)
 <!--END_SECTION:activity-->
