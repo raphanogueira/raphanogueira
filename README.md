@@ -1,6 +1,6 @@
 # Hello, I'm Raphael Nogueira! 👋
 ## Principal Software Engineering
-A Principal Software Engineer in Code Quality and Performance with over 8 years of experience. I have worked in sectors such as government, solar energy, aviation, and most recently, healthcare. Each experience has deepened my passion for technology, allowing me to gain new knowledge and support other developers.
+A Principal Software Engineer with over 8 years of experience. I have worked in sectors such as government, solar energy, aviation, and most recently, healthcare. Each experience has deepened my passion for technology, allowing me to gain new knowledge and support other developers.
 
 In a recent success case, I contributed to the documentation, quality improvement, and performance of the code at Hapvida NDI, where I implemented SonarQube, defining rules, quality profiles, and code history. I also led the implementation of Backstage, an internal platform that catalogs applications, centralizes documentation, and automates the generation and deployment of templates on Kubernetes, including the application of NetworkPolicies, as well as the creation of pipelines and releases. Currently, I contribute to simplifying development, boosting productivity and quality through best practices and strategic tools at Hapvida NDI, the largest healthcare operator in Brazil.
 
