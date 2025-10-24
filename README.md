@@ -41,6 +41,6 @@ In a recent success case, I contributed to the documentation, quality improvemen
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](undefined) in [raphanogueira/portfolio](https://github.com/raphanogueira/portfolio)
+1. 💪 Opened PR [#1](undefined) in [raphanogueira/Discovery.Entretenimento.Portal](https://github.com/raphanogueira/Discovery.Entretenimento.Portal)
 2. 💪 Opened PR [#20](https://github.com/raphanogueira/backstage-plugins/pull/20) in [raphanogueira/backstage-plugins](https://github.com/raphanogueira/backstage-plugins)
 <!--END_SECTION:activity-->
