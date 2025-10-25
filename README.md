@@ -41,6 +41,6 @@ In a recent success case, I contributed to the documentation, quality improvemen
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](undefined) in [raphanogueira/Discovery.Entretenimento.Portal](https://github.com/raphanogueira/Discovery.Entretenimento.Portal)
-2. 💪 Opened PR [#20](https://github.com/raphanogueira/backstage-plugins/pull/20) in [raphanogueira/backstage-plugins](https://github.com/raphanogueira/backstage-plugins)
+1.  Assigned issue [#2](https://github.com/raphanogueira/Discovery.Entretenimento.Portal/issues/2) in [raphanogueira/Discovery.Entretenimento.Portal](https://github.com/raphanogueira/Discovery.Entretenimento.Portal)
+2.  Labeled issue [#2](https://github.com/raphanogueira/Discovery.Entretenimento.Portal/issues/2) in [raphanogueira/Discovery.Entretenimento.Portal](https://github.com/raphanogueira/Discovery.Entretenimento.Portal)
 <!--END_SECTION:activity-->
