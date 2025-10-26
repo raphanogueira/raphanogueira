@@ -41,6 +41,6 @@ In a recent success case, I contributed to the documentation, quality improvemen
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/raphanogueira/Discovery.Entretenimento.Portal/issues/2) in [raphanogueira/Discovery.Entretenimento.Portal](https://github.com/raphanogueira/Discovery.Entretenimento.Portal)
-2.  Assigned issue [#2](https://github.com/raphanogueira/Discovery.Entretenimento.Portal/issues/2) in [raphanogueira/Discovery.Entretenimento.Portal](https://github.com/raphanogueira/Discovery.Entretenimento.Portal)
+1.  Assigned issue [#4](https://github.com/raphanogueira/Discovery.Entretenimento.Portal/issues/4) in [raphanogueira/Discovery.Entretenimento.Portal](https://github.com/raphanogueira/Discovery.Entretenimento.Portal)
+2. ❗ Opened issue [#4](https://github.com/raphanogueira/Discovery.Entretenimento.Portal/issues/4) in [raphanogueira/Discovery.Entretenimento.Portal](https://github.com/raphanogueira/Discovery.Entretenimento.Portal)
 <!--END_SECTION:activity-->
